@@ -1,0 +1,35 @@
+/*
+    #03668d blue
+    #f1f3ed white
+ */
+
+body {
+    background-color: #F9F7EC;
+    /* background-image: linear-gradient(to bottom right, #ffffff, #e5e5e5); */
+  }
+  h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 500%;
+    /* background-color: rgba(3, 102, 141, 0.5); */
+    background-color: #03668d;
+    /* margin: 0px; */
+    border-color: black;
+    color: #f1f3ed;
+  }
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #287271;
+    padding: 32px;
+  }
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #264653;
+  }
+  
+  ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #264653;
+  }
+  
