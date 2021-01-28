@@ -1,0 +1,36 @@
+/*
+
+Color pallette:
+dark blue: #264653
+green blue: #2a9d8f
+yellow: #e9c46a
+light orange: #f4a261
+orange: #e76f51
+white: #f4f1de
+*/
+
+body {
+  background-color: #F9F7EC;
+  /* background-image: linear-gradient(to bottom right, #ffffff, #e5e5e5); */
+}
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 400%;
+  color: #2A9D8F;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  color: #287271;
+  padding: 32px;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #264653;
+}
+
+ul {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #264653;
+}
